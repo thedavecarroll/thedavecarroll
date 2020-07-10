@@ -64,7 +64,7 @@ I am a contributing author for Vol 2 and PS7Now.
     <tr>
 </table>
 
-[blog]: https://powershell.anovelidea.org
+[blog]: https://bit.ly/thedavecarroll
 [PoShEvents]: https://bit.ly/PoShEvents
 [PoShGroupPolicy]: https://bit.ly/PoShGroupPolicy
 [PoShDynDnsApi]: https://bit.ly/PoShDynDnsApi
