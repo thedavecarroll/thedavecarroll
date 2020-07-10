@@ -14,11 +14,11 @@ Please consider buying a copy of the PowerShell Conference Book, both [Volume 1]
 > learn about IT automation, DevOps practices, and more - all at no cost to them or their families.
 > We’re changing one life at a time and helping to ensure the continuation and advancement of our trade!
 
-[![PowerShell Conference Book Volume 1](https://github.com/thedavecarroll/thedavecarroll/tree/main/images/psconfbookv1.jpg)][psconfbook1]
+[![PowerShell Conference Book Volume 1](https://github.com/thedavecarroll/thedavecarroll/blob/main/images/psconfbookv1.jpg)][psconfbook1]
 &nbsp;&nbsp;&nbsp;
-[![PowerShell Conference Book Volume 2](https://github.com/thedavecarroll/thedavecarroll/tree/main/images/psconfbookv2.jpg)][psconfbook2]
+[![PowerShell Conference Book Volume 2](https://github.com/thedavecarroll/thedavecarroll/blob/main/images/psconfbookv2.jpg)][psconfbook2]
 &nbsp;&nbsp;&nbsp;
-[![PS7Now!](https://github.com/thedavecarroll/thedavecarroll/tree/main/images/ps7now.jpg)][ps7now]
+[![PS7Now!](https://github.com/thedavecarroll/thedavecarroll/blob/main/images/ps7now.jpg)][ps7now]
 
 [psconfbook1]: https://leanpub.com/powershell-conference-book
 [psconfbook2]: https://leanpub.com/psconfbook2
