@@ -1,32 +1,76 @@
 # Dave Carroll
 
+PowerShell developer with background in multiple scripting languages, identity management, and the Microsoft technology stack.
+PowerShell to the people!
 
+### My Contributions
 
+#### PowerShell and Technical Blog
+
+I maintain a [blog][blog] on PowerShell with a smattering of articles for other info tech topics.
+
+<a href="https://bit.ly/thedavecarroll"><img src="https://raw.githubusercontent.com/thedavecarroll/thedavecarroll/main/images/powershell_anovelidea_org.png" width="200" alt="PowerShell: What A Novel Idea" /></a>
+&nbsp;&nbsp;
+<a href="https://www.planetpowershell.com/"><img src="https://raw.githubusercontent.com/thedavecarroll/thedavecarroll/main/images/planetpowershell.png" width="100" alt="Planet PowerShell" /></a>
+
+#### PowerShell Modules
+
+I wrote and main the following PowerShell modules:
+
+* [PoShEvents][PoShEvents]
+* [PoShGroupPolicy][PoShGroupPolicy]
+* [PoShDynDnsApi][PoShDynDnsApi]
+* [PSTemperature][PSTemperature] (binary module written in C#)
+* [PowerShellModules/Twitter][PSModulesTwitter] (proof of concept, [feedback][twitterfeedback] requested)
+
+#### Contributing Author
+
+* [PowerShell Conference Book Volume 2][psconfbook1]
+* The [#PS7Now][ps7now] ebook which is comprised of the #PSBlogWeek articles for the GA release of PowerShell 7
+
+#### Presentations
+
+| Date | 9/21/2019 |
+|---:|:---|
+| Event | Research Triangle PowerShell User Group - PowerShell Saturday |
+| Title | [Crossing the Divide - A System Administrator's Path to DevOps][1] |
+| Abstract | Sysadmins and programmers have been divided for years, not just in job duties, but also organizationally, culturally, and philosophically.We will examine one systems administrator’s journey to see how they acquired some of the prerequisite skill sets and changed their mindset on the path to DevOps. |
+| Video | [Recording][2]
+
+[1]: 2019/RTPSUG-PSSaturday/
+[2]: https://bit.ly/2zAZxzS
 
 ## Support the OnRamp Scholarship
-
-Please consider buying a copy of the PowerShell Conference Book, both [Volume 1][psconfbook1] and [Volume 2][psconfbook2]!
-
-100% of the royalties from sales of these books go towards [the DevOps Collective][devopsorg]'s [OnRamp scholarship program][onrampscholarship].
 
 > The DevOps Collective’s OnRamp scholarships help younger technology professionals,
 > many from underrepresented groups and disadvantaged backgrounds,
 > learn about IT automation, DevOps practices, and more - all at no cost to them or their families.
 > We’re changing one life at a time and helping to ensure the continuation and advancement of our trade!
 
-<table class="flex-justify-center" style="width:80%">
+100% of the royalties from sales of these books go towards the [DevOps Collective][devopsorg]'s [OnRamp scholarship program][onrampscholarship].
+
+I am a contributing author for Vol 2 and PS7Now.
+
+<table style="width:80%">
     <tr>
         <th>PowerShell Conference Book<br/>Vol 1</th>
         <th>PowerShell Conference Book<br/>Vol 2</th>
-        <th>PS7Now!</th>
+        <th>PS7Now</th>
     </tr>
     <tr>
-        <td class="flex-justify-center"><a href="https://leanpub.com/powershell-conference-book"><img src="https://raw.githubusercontent.com/thedavecarroll/thedavecarroll/main/images/psconfbookv1.jpg" width="150" alt="PowerShell Conference Book Volume 1" /></a></td>
-        <td class="flex-justify-center"><a href="https://leanpub.com/powershell-conference-book"><img src="https://raw.githubusercontent.com/thedavecarroll/thedavecarroll/main/images/psconfbookv2.jpg" width="150" alt="PowerShell Conference Book Volume 2" /></a></td>
-        <td class="flex-justify-center"><a href="https://leanpub.com/powershell-conference-book"> <img src="https://raw.githubusercontent.com/thedavecarroll/thedavecarroll/main/images/ps7now.jpg" width="150" alt="PS7Now!" /></a></td>
+        <td><a href="https://leanpub.com/powershell-conference-book"><img src="https://raw.githubusercontent.com/thedavecarroll/thedavecarroll/main/images/psconfbookv1.jpg" width="150" alt="PowerShell Conference Book Volume 1" /></a></td>
+        <td><a href="https://leanpub.com/powershell-conference-book"><img src="https://raw.githubusercontent.com/thedavecarroll/thedavecarroll/main/images/psconfbookv2.jpg" width="150" alt="PowerShell Conference Book Volume 2" /></a></td>
+        <td><a href="https://leanpub.com/powershell-conference-book"> <img src="https://raw.githubusercontent.com/thedavecarroll/thedavecarroll/main/images/ps7now.jpg" width="150" alt="PS7Now" /></a></td>
     <tr>
 </table>
 
+[blog]: https://powershell.anovelidea.org
+[PoShEvents]: https://bit.ly/PoShEvents
+[PoShGroupPolicy]: https://bit.ly/PoShGroupPolicy
+[PoShDynDnsApi]: https://bit.ly/PoShDynDnsApi
+[PSTemperature]: https://github.com/thedavecarroll/PSTemperature
+[PSModulesTwitter]: https://github.com/PowerShellModules/Twitter
+[twitterfeedback]: https://github.com/PowerShellModules/Twitter/issues
 [psconfbook1]: https://leanpub.com/powershell-conference-book
 [psconfbook2]: https://leanpub.com/psconfbook2
 [ps7now]: https://leanpub.com/ps7now/
