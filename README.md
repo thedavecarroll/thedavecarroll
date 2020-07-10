@@ -1,6 +1,7 @@
 # Dave Carroll
 
 PowerShell developer with background in multiple scripting languages, identity management, and the Microsoft technology stack.
+
 PowerShell to the people!
 
 ### My Contributions
@@ -9,9 +10,7 @@ PowerShell to the people!
 
 I maintain a [blog][blog] on PowerShell with a smattering of articles for other info tech topics.
 
-<a href="https://bit.ly/thedavecarroll"><img src="https://raw.githubusercontent.com/thedavecarroll/thedavecarroll/main/images/powershell_anovelidea_org.png" width="200" alt="PowerShell: What A Novel Idea" /></a>
-&nbsp;&nbsp;
-<a href="https://www.planetpowershell.com/"><img src="https://raw.githubusercontent.com/thedavecarroll/thedavecarroll/main/images/planetpowershell.png" width="100" alt="Planet PowerShell" /></a>
+<a href="https://bit.ly/thedavecarroll"><img src="https://raw.githubusercontent.com/thedavecarroll/thedavecarroll/main/images/powershell_anovelidea_org.png" width="400" alt="PowerShell: What A Novel Idea" /></a>
 
 #### PowerShell Modules
 
@@ -20,7 +19,7 @@ I wrote and main the following PowerShell modules:
 * [PoShEvents][PoShEvents]
 * [PoShGroupPolicy][PoShGroupPolicy]
 * [PoShDynDnsApi][PoShDynDnsApi]
-* [PSTemperature][PSTemperature] (binary module written in C#)
+* [PSTemperature][PSTemperature] (binary module written in C# with Experimental Feature)
 * [PowerShellModules/Twitter][PSModulesTwitter] (proof of concept, [feedback][twitterfeedback] requested)
 
 #### Contributing Author
@@ -33,12 +32,9 @@ I wrote and main the following PowerShell modules:
 | Date | 9/21/2019 |
 |---:|:---|
 | Event | Research Triangle PowerShell User Group - PowerShell Saturday |
-| Title | [Crossing the Divide - A System Administrator's Path to DevOps][1] |
+| Title | [Crossing the Divide - A System Administrator's Path to DevOps][pathtodevopspptx] |
 | Abstract | Sysadmins and programmers have been divided for years, not just in job duties, but also organizationally, culturally, and philosophically.We will examine one systems administrator’s journey to see how they acquired some of the prerequisite skill sets and changed their mindset on the path to DevOps. |
-| Video | [Recording][2]
-
-[1]: 2019/RTPSUG-PSSaturday/
-[2]: https://bit.ly/2zAZxzS
+| Video | [Recording][pathtodevopsvid]
 
 ## Support the OnRamp Scholarship
 
@@ -48,8 +44,6 @@ I wrote and main the following PowerShell modules:
 > We’re changing one life at a time and helping to ensure the continuation and advancement of our trade!
 
 100% of the royalties from sales of these books go towards the [DevOps Collective][devopsorg]'s [OnRamp scholarship program][onrampscholarship].
-
-I am a contributing author for Vol 2 and PS7Now.
 
 <table style="width:80%">
     <tr>
@@ -71,6 +65,8 @@ I am a contributing author for Vol 2 and PS7Now.
 [PSTemperature]: https://github.com/thedavecarroll/PSTemperature
 [PSModulesTwitter]: https://github.com/PowerShellModules/Twitter
 [twitterfeedback]: https://github.com/PowerShellModules/Twitter/issues
+[pathtodevopspptx]: https://github.com/thedavecarroll/Presentations/tree/main/2019/RTPSUG-PSSaturday
+[pathtodevopsvid]:https://bit.ly/2zAZxzS
 [psconfbook1]: https://leanpub.com/powershell-conference-book
 [psconfbook2]: https://leanpub.com/psconfbook2
 [ps7now]: https://leanpub.com/ps7now/
