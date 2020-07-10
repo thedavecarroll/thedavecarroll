@@ -14,15 +14,6 @@ Please consider buying a copy of the PowerShell Conference Book, both [Volume 1]
 > learn about IT automation, DevOps practices, and more - all at no cost to them or their families.
 > We’re changing one life at a time and helping to ensure the continuation and advancement of our trade!
 
-<style>
-table {
-    border-collapse: collapse;
-}
-table.center {
-    margin-left:auto;
-    margin-right:auto;
-}
-</style>
 <table class="center" style="width:80%">
     <tr>
         <th>PowerShell Conference Book<br/>Vol 1</th>
