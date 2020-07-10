@@ -53,8 +53,8 @@ I wrote and main the following PowerShell modules:
     </tr>
     <tr>
         <td><a href="https://leanpub.com/powershell-conference-book"><img src="https://raw.githubusercontent.com/thedavecarroll/thedavecarroll/main/images/psconfbookv1.jpg" width="150" alt="PowerShell Conference Book Volume 1" /></a></td>
-        <td><a href="https://leanpub.com/powershell-conference-book"><img src="https://raw.githubusercontent.com/thedavecarroll/thedavecarroll/main/images/psconfbookv2.jpg" width="150" alt="PowerShell Conference Book Volume 2" /></a></td>
-        <td><a href="https://leanpub.com/powershell-conference-book"> <img src="https://raw.githubusercontent.com/thedavecarroll/thedavecarroll/main/images/ps7now.jpg" width="150" alt="PS7Now" /></a></td>
+        <td><a href="https://leanpub.com/psconfbook2"><img src="https://raw.githubusercontent.com/thedavecarroll/thedavecarroll/main/images/psconfbookv2.jpg" width="150" alt="PowerShell Conference Book Volume 2" /></a></td>
+        <td><a href="https://leanpub.com/ps7now"> <img src="https://raw.githubusercontent.com/thedavecarroll/thedavecarroll/main/images/ps7now.jpg" width="150" alt="PS7Now" /></a></td>
     <tr>
 </table>
 
