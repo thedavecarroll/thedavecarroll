@@ -14,16 +14,16 @@ Please consider buying a copy of the PowerShell Conference Book, both [Volume 1]
 > learn about IT automation, DevOps practices, and more - all at no cost to them or their families.
 > We’re changing one life at a time and helping to ensure the continuation and advancement of our trade!
 
-<table style="width:80%">
+<table class="flex-justify-center" style="width:80%">
     <tr>
         <th>PowerShell Conference Book<br/>Vol 1</th>
         <th>PowerShell Conference Book<br/>Vol 2</th>
         <th>PS7Now!</th>
     </tr>
     <tr>
-        <td style="text-align: center; vertical-align: middle;"><a href="https://leanpub.com/powershell-conference-book"><img src="https://raw.githubusercontent.com/thedavecarroll/thedavecarroll/main/images/psconfbookv1.jpg" width="150" alt="PowerShell Conference Book Volume 1" /></a></td>
-        <td style="text-align: center; vertical-align: middle;"><a href="https://leanpub.com/powershell-conference-book"><img src="https://raw.githubusercontent.com/thedavecarroll/thedavecarroll/main/images/psconfbookv2.jpg" width="150" alt="PowerShell Conference Book Volume 2" /></a></td>
-        <td style="text-align: center; vertical-align: middle;"><a href="https://leanpub.com/powershell-conference-book"> <img src="https://raw.githubusercontent.com/thedavecarroll/thedavecarroll/main/images/ps7now.jpg" width="150" alt="PS7Now!" /></a></td>
+        <td class="flex-justify-center"><a href="https://leanpub.com/powershell-conference-book"><img src="https://raw.githubusercontent.com/thedavecarroll/thedavecarroll/main/images/psconfbookv1.jpg" width="150" alt="PowerShell Conference Book Volume 1" /></a></td>
+        <td class="flex-justify-center"><a href="https://leanpub.com/powershell-conference-book"><img src="https://raw.githubusercontent.com/thedavecarroll/thedavecarroll/main/images/psconfbookv2.jpg" width="150" alt="PowerShell Conference Book Volume 2" /></a></td>
+        <td class="flex-justify-center"><a href="https://leanpub.com/powershell-conference-book"> <img src="https://raw.githubusercontent.com/thedavecarroll/thedavecarroll/main/images/ps7now.jpg" width="150" alt="PS7Now!" /></a></td>
     <tr>
 </table>
 
