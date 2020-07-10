@@ -24,7 +24,7 @@ I wrote and main the following PowerShell modules:
 
 #### Contributing Author
 
-* [PowerShell Conference Book Volume 2][psconfbook1]
+* [PowerShell Conference Book Volume 2][psconfbook2]
 * The [#PS7Now][ps7now] ebook which is comprised of the #PSBlogWeek articles for the GA release of PowerShell 7
 
 #### Presentations
