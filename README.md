@@ -42,7 +42,9 @@ I wrote and main the following PowerShell modules:
 
 ### GitHub Info
 
-<p><img align="left" alt="thedavecarroll's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thedavecarroll&show_icons=true&hide_border=true" /></p>
+<img align="left" alt="thedavecarroll's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thedavecarroll&show_icons=true&hide_border=true" />
+
+<br/>
 
 ## Support the DevOps Collective's OnRamp Scholarship
 
