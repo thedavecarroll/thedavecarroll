@@ -4,30 +4,34 @@ PowerShell developer with background in multiple scripting languages, identity m
 
 PowerShell to the people!
 
-### My Contributions
+## My Contributions
 
-#### PowerShell and Technical Blog
+### PowerShell and Technical Blog
 
 I maintain a [blog][blog] on PowerShell with a smattering of articles for other info tech topics.
+Here are the latest articles:
 
-<a href="https://bit.ly/thedavecarroll"><img src="https://raw.githubusercontent.com/thedavecarroll/thedavecarroll/main/images/powershell_anovelidea_org.png" width="400" alt="PowerShell: What A Novel Idea" /></a>
+<!-- <a href="https://bit.ly/thedavecarroll"><img src="https://raw.githubusercontent.com/thedavecarroll/thedavecarroll/main/images/powershell_anovelidea_org.png" width="400" alt="PowerShell: What A Novel Idea" /></a> -->
 
-#### PowerShell Modules
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### PowerShell Modules
 
 I wrote and main the following PowerShell modules:
 
 * [PoShEvents][PoShEvents]
 * [PoShGroupPolicy][PoShGroupPolicy]
 * [PoShDynDnsApi][PoShDynDnsApi]
-* [PSTemperature][PSTemperature] (binary module written in C# with Experimental Feature)
+* [PSTemperature][PSTemperature] (binary module written in C# with PowerShell 7 experimental feature)
 * [PowerShellModules/Twitter][PSModulesTwitter] (proof of concept, [feedback][twitterfeedback] requested)
 
-#### Contributing Author
+### Contributing Author
 
 * [PowerShell Conference Book Volume 2][psconfbook2]
 * The [#PS7Now][ps7now] ebook which is comprised of the #PSBlogWeek articles for the GA release of PowerShell 7
 
-#### Presentations
+### Presentations
 
 | Date | 9/21/2019 |
 |---:|:---|
@@ -36,7 +40,11 @@ I wrote and main the following PowerShell modules:
 | Abstract | Sysadmins and programmers have been divided for years, not just in job duties, but also organizationally, culturally, and philosophically.We will examine one systems administrator’s journey to see how they acquired some of the prerequisite skill sets and changed their mindset on the path to DevOps. |
 | Video | [Recording][pathtodevopsvid]
 
-## Support the OnRamp Scholarship
+### GitHub Info
+
+<img align="left" alt="thedavecarroll's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thedavecarroll&show_icons=true&hide_border=true" />
+
+## Support the DevOps Collective's OnRamp Scholarship
 
 > The DevOps Collective’s OnRamp scholarships help younger technology professionals,
 > many from underrepresented groups and disadvantaged backgrounds,
@@ -72,20 +80,3 @@ I wrote and main the following PowerShell modules:
 [ps7now]: https://leanpub.com/ps7now/
 [devopsorg]: https://devopscollective.org/
 [onrampscholarship]: https://events.devopscollective.org/OnRamp/Scholarship/
-<!--
-
-### Hi there 👋
-
-**thedavecarroll/thedavecarroll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
