@@ -47,7 +47,9 @@ I wrote and main the following PowerShell modules:
 
 #### GitHub Info
 
-<div><img align="left" alt="thedavecarroll's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thedavecarroll&show_icons=true&hide_border=true" /></div>
+[![thedavecarroll's Github Stats](https://github-readme-stats.vercel.app/api?username=thedavecarroll&show_icons=true&hide_border=true")](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- <img align="left" alt="thedavecarroll's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thedavecarroll&show_icons=true&hide_border=true" /> -->
 
 ## Support the DevOps Collective's OnRamp Scholarship
 
