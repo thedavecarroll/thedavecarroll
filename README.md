@@ -14,6 +14,11 @@ Here are the latest articles:
 <!-- <a href="https://bit.ly/thedavecarroll"><img src="https://raw.githubusercontent.com/thedavecarroll/thedavecarroll/main/images/powershell_anovelidea_org.png" width="400" alt="PowerShell: What A Novel Idea" /></a> -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a PowerShell Command Inventory Solution - Part Deux](https://powershell.anovelidea.org/powershell/powershell-command-inventory-part-deux/)
+- [Building a PowerShell Command Inventory Solution](https://powershell.anovelidea.org/powershell/bulding-powershell-command-inventory-solution/)
+- [A PowerShell Counting Challenge Walk-through](https://powershell.anovelidea.org/powershell/powershell-counting-challenge/)
+- [Publish a Post for a Jekyll Site on a Schedule](https://powershell.anovelidea.org/blog/publish-post-jekyll-on-a-schedule/)
+- [PowerShell 7 Experimental Features](https://powershell.anovelidea.org/powershell/ps7now-experimental-features/)
 <!-- BLOG-POST-LIST:END -->
 
 #### PowerShell Modules
