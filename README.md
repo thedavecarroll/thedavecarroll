@@ -6,7 +6,7 @@ PowerShell to the people!
 
 ## My Contributions
 
-### PowerShell and Technical Blog
+#### PowerShell and Technical Blog
 
 I maintain a [blog][blog] on PowerShell with a smattering of articles for other info tech topics.
 Here are the latest articles:
@@ -16,7 +16,7 @@ Here are the latest articles:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-### PowerShell Modules
+#### PowerShell Modules
 
 I wrote and main the following PowerShell modules:
 
@@ -26,12 +26,12 @@ I wrote and main the following PowerShell modules:
 * [PSTemperature][PSTemperature] (binary module written in C# with PowerShell 7 experimental feature)
 * [PowerShellModules/Twitter][PSModulesTwitter] (proof of concept, [feedback][twitterfeedback] requested)
 
-### Contributing Author
+#### Contributing Author
 
 * [PowerShell Conference Book Volume 2][psconfbook2]
 * The [#PS7Now][ps7now] ebook which is comprised of the #PSBlogWeek articles for the GA release of PowerShell 7
 
-### Presentations
+#### Presentations
 
 | Date | 9/21/2019 |
 |---:|:---|
@@ -40,11 +40,9 @@ I wrote and main the following PowerShell modules:
 | Abstract | Sysadmins and programmers have been divided for years, not just in job duties, but also organizationally, culturally, and philosophically.We will examine one systems administrator’s journey to see how they acquired some of the prerequisite skill sets and changed their mindset on the path to DevOps. |
 | Video | [Recording][pathtodevopsvid]
 
-### GitHub Info
+#### GitHub Info
 
-<img align="left" alt="thedavecarroll's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thedavecarroll&show_icons=true&hide_border=true" />
-
-<br/>
+<div><img align="left" alt="thedavecarroll's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thedavecarroll&show_icons=true&hide_border=true" /></div>
 
 ## Support the DevOps Collective's OnRamp Scholarship
 
