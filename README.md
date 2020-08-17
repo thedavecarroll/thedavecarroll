@@ -31,6 +31,11 @@ I wrote and main the following PowerShell modules:
 * [PSTemperature][PSTemperature] (binary module written in C# with PowerShell 7 experimental feature)
 * [PowerShellModules/Twitter][PSModulesTwitter] (proof of concept, [feedback][twitterfeedback] requested)
 
+#### Iron Scripter Challenge Solutions
+
+I have participated in several [Iron Scripter][IronScripter] challenges since June 2019.
+My solutions can be found in [my IronScripterSolutions][MyIronScripterSolutionsRepo] repo.
+
 #### Contributing Author
 
 * [PowerShell Conference Book Volume 2][psconfbook2]
@@ -82,6 +87,8 @@ I wrote and main the following PowerShell modules:
 [twitterfeedback]: https://github.com/PowerShellModules/Twitter/issues
 [pathtodevopspptx]: https://github.com/thedavecarroll/Presentations/tree/main/2019/RTPSUG-PSSaturday
 [pathtodevopsvid]:https://bit.ly/2zAZxzS
+[IronScripter]: https://ironscripter.us/
+[MyIronScripterSolutionsRepo]: https://github.com/thedavecarroll/IronScripterSolutions
 [psconfbook1]: https://leanpub.com/powershell-conference-book
 [psconfbook2]: https://leanpub.com/psconfbook2
 [ps7now]: https://leanpub.com/ps7now/
