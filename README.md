@@ -70,6 +70,7 @@ My solutions can be found in [my IronScripterSolutions][MyIronScripterSolutionsR
     <tr>
         <th>PowerShell Conference Book<br/>Vol 1</th>
         <th>PowerShell Conference Book<br/>Vol 2</th>
+        <th>PowerShell Conference Book<br/>Vol 3</th>
         <th>PS7Now</th>
     </tr>
     <tr>
