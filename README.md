@@ -39,6 +39,7 @@ My solutions can be found in [my IronScripterSolutions][MyIronScripterSolutionsR
 #### Contributing Author
 
 * [PowerShell Conference Book Volume 2][psconfbook2]
+* [PowerShell Conference Book Volume 3][psconfbook3]
 * The [#PS7Now][ps7now] ebook which is comprised of the #PSBlogWeek articles for the GA release of PowerShell 7
 
 #### Presentations
@@ -74,6 +75,7 @@ My solutions can be found in [my IronScripterSolutions][MyIronScripterSolutionsR
     <tr>
         <td><a href="https://leanpub.com/powershell-conference-book"><img src="https://raw.githubusercontent.com/thedavecarroll/thedavecarroll/main/images/psconfbookv1.jpg" width="150" alt="PowerShell Conference Book Volume 1" /></a></td>
         <td><a href="https://leanpub.com/psconfbook2"><img src="https://raw.githubusercontent.com/thedavecarroll/thedavecarroll/main/images/psconfbookv2.jpg" width="150" alt="PowerShell Conference Book Volume 2" /></a></td>
+        <td><a href="https://leanpub.com/psconfbook3"><img src="https://raw.githubusercontent.com/thedavecarroll/thedavecarroll/main/images/psconfbookv3.jpg" width="150" alt="PowerShell Conference Book Volume 3" /></a></td>
         <td><a href="https://leanpub.com/ps7now"> <img src="https://raw.githubusercontent.com/thedavecarroll/thedavecarroll/main/images/ps7now.jpg" width="150" alt="PS7Now" /></a></td>
     <tr>
 </table>
@@ -91,6 +93,7 @@ My solutions can be found in [my IronScripterSolutions][MyIronScripterSolutionsR
 [MyIronScripterSolutionsRepo]: https://github.com/thedavecarroll/IronScripterSolutions
 [psconfbook1]: https://leanpub.com/powershell-conference-book
 [psconfbook2]: https://leanpub.com/psconfbook2
+[psconfbook3]: https://leanpub.com/psconfbook3
 [ps7now]: https://leanpub.com/ps7now/
 [devopsorg]: https://devopscollective.org/
 [onrampscholarship]: https://events.devopscollective.org/OnRamp/Scholarship/
