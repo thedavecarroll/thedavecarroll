@@ -29,7 +29,7 @@ I wrote and main the following PowerShell modules:
 * [PoShGroupPolicy][PoShGroupPolicy]
 * [PoShDynDnsApi][PoShDynDnsApi]
 * [PSTemperature][PSTemperature] (binary module written in C# with PowerShell 7 experimental feature)
-* [PowerShellModules/Twitter][PSModulesTwitter] (proof of concept, [feedback][twitterfeedback] requested)
+* [BluebirdPS][BluebirdPS] ([feedback][BluebirdPSFeedback] requested)
 
 #### Iron Scripter Challenge Solutions
 
@@ -86,8 +86,8 @@ My solutions can be found in [my IronScripterSolutions][MyIronScripterSolutionsR
 [PoShGroupPolicy]: https://bit.ly/PoShGroupPolicy
 [PoShDynDnsApi]: https://bit.ly/PoShDynDnsApi
 [PSTemperature]: https://github.com/thedavecarroll/PSTemperature
-[PSModulesTwitter]: https://github.com/PowerShellModules/Twitter
-[twitterfeedback]: https://github.com/PowerShellModules/Twitter/issues
+[BluebirdPS]: https://github.com/thedavecarroll/BluebirdPS
+[BluebirdPSFeedback]: https://github.com/thedavecarroll/BluebirdPS/issues
 [pathtodevopspptx]: https://github.com/thedavecarroll/Presentations/tree/main/2019/RTPSUG-PSSaturday
 [pathtodevopsvid]:https://bit.ly/2zAZxzS
 [IronScripter]: https://ironscripter.us/
