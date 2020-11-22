@@ -25,11 +25,11 @@ Here are the latest articles:
 
 I wrote and main the following PowerShell modules:
 
+* [BluebirdPS][BluebirdPS] ([feedback][BluebirdPSFeedback] requested)
 * [PoShEvents][PoShEvents]
 * [PoShGroupPolicy][PoShGroupPolicy]
 * [PoShDynDnsApi][PoShDynDnsApi]
 * [PSTemperature][PSTemperature] (binary module written in C# with PowerShell 7 experimental feature)
-* [BluebirdPS][BluebirdPS] ([feedback][BluebirdPSFeedback] requested)
 
 #### Iron Scripter Challenge Solutions
 
