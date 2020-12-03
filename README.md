@@ -23,13 +23,30 @@ Here are the latest articles:
 
 #### PowerShell Modules
 
-I wrote and main the following PowerShell modules:
+I wrote and maintain the following PowerShell modules:
 
-* [BluebirdPS][BluebirdPS] ([feedback][BluebirdPSFeedback] requested)
-* [PoShEvents][PoShEvents]
-* [PoShGroupPolicy][PoShGroupPolicy]
-* [PoShDynDnsApi][PoShDynDnsApi]
-* [PSTemperature][PSTemperature] (binary module written in C# with PowerShell 7 experimental feature)
+| Name            | Repo                                   | PowerShellGallery                  | Notes                                                                                                                                                                                                                    |
+| --------------- | -------------------------------------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| BluebirdPS      | [BluebirdPS][BluebirdPSRepo]           | ![PowerShell Gallery Version (including pre-releases)](https://img.shields.io/powershellgallery/v/bluebirdps?color=blue&include_prereleases&label=PowerShell%20Gallery&logo=PowerShell&style=for-the-badge)           | [Getting Started][BluebirdPSGettingStarted] [Documentation][BluebirdPSDocumentation] [Report a Bug][BluebirdPSBugReport]  [Submit Feature Request][BluebirdPSFeatureRequest]  [Ask a question][BluebirdPSOpenDiscussion] |
+| PoShEvents      | [PoShEvents][PoShEventsRepo]           | ![PowerShell Gallery Version (including pre-releases)](https://img.shields.io/powershellgallery/v/poshevents?color=blue&include_prereleases&label=PowerShell%20Gallery&logo=PowerShell&style=for-the-badge)           | PowerShell module to query Windows Event Logs and write events with structured EventData or UserData                                                                                                                     |
+| PoShGroupPolicy | [PoShGroupPolicy][PoShGroupPolicyRepo] | ![PowerShell Gallery Version (including pre-releases)](https://img.shields.io/powershellgallery/v/poshgrouppolicy?color=blue&include_prereleases&label=PowerShell%20Gallery&logo=PowerShell&style=for-the-badge)  | PowerShell module to assist with Group Policy                                                                                                                                                                                                     |
+| PoShDynDnsApi   | [PoShDynDnsApi][PoShDynDnsApiRepo]     | ![PowerShell Gallery Version (including pre-releases)](https://img.shields.io/powershellgallery/v/poshdyndnsapi?color=blue&include_prereleases&label=PowerShell%20Gallery&logo=PowerShell&style=for-the-badge)      | PowerShell module used to interact with Dyn Managed DNS REST API                                                                                                                                                                                            |
+| PSTemperature   | [PSTemperature][PSTemperatureRepo]     |                                    | Binary module written in C# with PowerShell 7 experimental feature. Converts temperature between Celsius, Fahrenheit, Kelvin, and Rankine.                                                                               |
+
+[PoShEvents]: https://bit.ly/PoShEvents
+[PoShGroupPolicy]: https://bit.ly/PoShGroupPolicy
+[PoShDynDnsApi]: https://bit.ly/PoShDynDnsApi
+[PoShEventsRepo]: https://github.com/thedavecarroll/PoShEvents
+[PoShGroupPolicyRepo]: https://github.com/thedavecarroll/PoShGroupPolicy
+[PoShDynDnsApiRepo]: https://github.com/thedavecarroll/PoShDynDnsApi
+[PSTemperatureRepo]: https://github.com/thedavecarroll/PSTemperature
+[BluebirdPSRepo]: https://bit.ly/BluebirdPSRepo
+[BluebirdPS]: https://bit.ly/BluebirdPS
+[BluebirdPSGettingStarted]: https://bit.ly/BluebirdPSPrerequisites
+[BluebirdPSDocumentation]: https://bit.ly/BluebirdPSDocs
+[BluebirdPSBugReport]: https://bit.ly/BluebirdPSBugReport
+[BluebirdPSFeatureRequest]: https://bit.ly/BluebirdPSFeatureRequest
+[BluebirdPSOpenDiscussion]: https://bit.ly/BluebirdPSOpenDiscussion
 
 #### Iron Scripter Challenge Solutions
 
@@ -42,14 +59,14 @@ My solutions can be found in [my IronScripterSolutions][MyIronScripterSolutionsR
 * [PowerShell Conference Book Volume 3][psconfbook3]
 * The [#PS7Now][ps7now] ebook which is comprised of the #PSBlogWeek articles for the GA release of PowerShell 7
 
-#### Presentations
+#### My Last Presentation
 
-| Date | 9/21/2019 |
-|---:|:---|
-| Event | Research Triangle PowerShell User Group - PowerShell Saturday |
-| Title | [Crossing the Divide - A System Administrator's Path to DevOps][pathtodevopspptx] |
-| Abstract | Sysadmins and programmers have been divided for years, not just in job duties, but also organizationally, culturally, and philosophically.We will examine one systems administrator’s journey to see how they acquired some of the prerequisite skill sets and changed their mindset on the path to DevOps. |
-| Video | [Recording][pathtodevopsvid]
+|     Date | 12/1/2020                                                                                                                                                                                                                                                                                                                                                                                       |
+| -------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|    Event | Southern California PowerShell User Group - December Remote Meeting                                                                                                                                                                                                                                                                                                                             |
+|    Title | [BluebirdPS: A Twitter Automation Client for PowerShell 7][SoCalBluebirdPS]                                                                                                                                                                                                                                                                                                                     |
+| Abstract | In this discussion, we will take a look at BluebirdPS, a new PowerShell module for Twitter. We will examine some of the functions, including live tweeting, and then dive into use cases and an overview of the module design. If time permits, we will deep dive into the helper (private) functions that interact with the Twitter API directly and provide output including tailored errors. |
+|    Video | [Recording][SoCalBluebirdPSVideo]                                                                                                                                                                                                                                                                                                                                                               |
 
 #### GitHub Info
 
@@ -82,14 +99,9 @@ My solutions can be found in [my IronScripterSolutions][MyIronScripterSolutionsR
 </table>
 
 [blog]: https://bit.ly/thedavecarroll
-[PoShEvents]: https://bit.ly/PoShEvents
-[PoShGroupPolicy]: https://bit.ly/PoShGroupPolicy
-[PoShDynDnsApi]: https://bit.ly/PoShDynDnsApi
-[PSTemperature]: https://github.com/thedavecarroll/PSTemperature
-[BluebirdPS]: https://github.com/thedavecarroll/BluebirdPS
-[BluebirdPSFeedback]: https://github.com/thedavecarroll/BluebirdPS/issues
-[pathtodevopspptx]: https://github.com/thedavecarroll/Presentations/tree/main/2019/RTPSUG-PSSaturday
-[pathtodevopsvid]:https://bit.ly/2zAZxzS
+
+[SoCalBluebirdPS]: 2020/SoCalPSUG-December/
+[SoCalBluebirdPSVideo]: https://bit.ly/2I4Va4L
 [IronScripter]: https://ironscripter.us/
 [MyIronScripterSolutionsRepo]: https://github.com/thedavecarroll/IronScripterSolutions
 [psconfbook1]: https://leanpub.com/powershell-conference-book
