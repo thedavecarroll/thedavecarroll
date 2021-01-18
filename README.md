@@ -14,11 +14,11 @@ Here are the latest articles:
 <!-- <a href="https://bit.ly/thedavecarroll"><img src="https://raw.githubusercontent.com/thedavecarroll/thedavecarroll/main/images/powershell_anovelidea_org.png" width="400" alt="PowerShell: What A Novel Idea" /></a> -->
 
 <!-- BLOG-POST-LIST:START -->
+- [A 2020 Year End Review and 2021 Directions](https://powershell.anovelidea.org/powershell/year-end-review-next-directions/)
 - [Responding to an Issue Submitted for the PoShDynDnsApi Module](https://powershell.anovelidea.org/powershell/responding-to-issue-submitted-for-poshdyndnsapi-module/)
 - [Building a PowerShell Command Inventory Solution - Part Deux](https://powershell.anovelidea.org/powershell/powershell-command-inventory-part-deux/)
 - [Building a PowerShell Command Inventory Solution](https://powershell.anovelidea.org/powershell/bulding-powershell-command-inventory-solution/)
 - [A PowerShell Counting Challenge Walk-through](https://powershell.anovelidea.org/powershell/powershell-counting-challenge/)
-- [Publish a Post for a Jekyll Site on a Schedule](https://powershell.anovelidea.org/blog/publish-post-jekyll-on-a-schedule/)
 <!-- BLOG-POST-LIST:END -->
 
 #### PowerShell Modules
