@@ -14,11 +14,11 @@ Here are the latest articles:
 <!-- <a href="https://bit.ly/thedavecarroll"><img src="https://raw.githubusercontent.com/thedavecarroll/thedavecarroll/main/images/powershell_anovelidea_org.png" width="400" alt="PowerShell: What A Novel Idea" /></a> -->
 
 <!-- BLOG-POST-LIST:START -->
+- [#PSFollowFriday Tweet with BluebirdPS](https://powershell.anovelidea.org/powershell/psfollowfriday-tweet-with-bluebirdps/)
 - [Creating a Class Definition from an Existing Object - Part 3](https://powershell.anovelidea.org/powershell/creating-class-definition-from-object-part-3/)
 - [Creating a Class Definition from an Existing Object - Part 2](https://powershell.anovelidea.org/powershell/creating-class-definition-from-object-part-2/)
 - [Creating a Class Definition from an Existing Object - Part 1](https://powershell.anovelidea.org/powershell/creating-class-definition-from-object-part-1/)
 - [A 2020 Year End Review and 2021 Directions](https://powershell.anovelidea.org/powershell/year-end-review-next-directions/)
-- [Responding to an Issue Submitted for the PoShDynDnsApi Module](https://powershell.anovelidea.org/powershell/responding-to-issue-submitted-for-poshdyndnsapi-module/)
 <!-- BLOG-POST-LIST:END -->
 
 #### PowerShell Modules
