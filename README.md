@@ -15,10 +15,10 @@ Here are the latest articles:
 
 <!-- BLOG-POST-LIST:START -->
 - [#PSFollowFriday Tweet with BluebirdPS](https://powershell.anovelidea.org/powershell/psfollowfriday-tweet-with-bluebirdps/)
-- [Creating a Class Definition from an Existing Object - Part 3](https://powershell.anovelidea.org/powershell/creating-class-definition-from-object-part-3/)
-- [Creating a Class Definition from an Existing Object - Part 2](https://powershell.anovelidea.org/powershell/creating-class-definition-from-object-part-2/)
-- [Creating a Class Definition from an Existing Object - Part 1](https://powershell.anovelidea.org/powershell/creating-class-definition-from-object-part-1/)
-- [A 2020 Year End Review and 2021 Directions](https://powershell.anovelidea.org/powershell/year-end-review-next-directions/)
+- [Creating a Class Definition from an Existing Object - Part 3](https://thedavecarroll.com/powershell/creating-class-definition-from-object-part-3/)
+- [Creating a Class Definition from an Existing Object - Part 2](https://thedavecarroll.com/powershell/creating-class-definition-from-object-part-2/)
+- [Creating a Class Definition from an Existing Object - Part 1](https://thedavecarroll.com/powershell/creating-class-definition-from-object-part-1/)
+- [A 2020 Year End Review and 2021 Directions](https://thedavecarroll.com/powershell/year-end-review-next-directions/)
 <!-- BLOG-POST-LIST:END -->
 
 #### PowerShell Modules
@@ -98,7 +98,7 @@ My solutions can be found in [my IronScripterSolutions][MyIronScripterSolutionsR
     <tr>
 </table>
 
-[blog]: https://bit.ly/thedavecarroll
+[blog]: https://thedavecarroll.com
 
 [SoCalBluebirdPS]: 2020/SoCalPSUG-December/
 [SoCalBluebirdPSVideo]: https://bit.ly/2I4Va4L
