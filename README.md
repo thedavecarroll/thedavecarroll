@@ -1,10 +1,7 @@
 # Dave Carroll
 
-The first computer I owned was a Commodore 64, but I would spend more time on my Apple //c that I received a couple years later.
-My first IBM compatible laptop had an impressive 640K RAM, which I configured part of as a RAM disk, and dual 1.44MB floppy drives.
-
 I started my career over 28 years ago at a small Mom-and-Pop computer store building and repairing home computer systems and peripherals.
-Since then, I've worked in the public and private sectors with the majority of the time in higher education.
+Since then, I've worked in the public and private sectors with 17 years in higher education.
 Currently, I am a DevOps engineer for a finance company and use PowerShell and Python daily.
 
 I got into scripting early.
@@ -16,6 +13,10 @@ It has allowed me to control the systems I manage and interface with various oth
 I attempt to promote and evangelize PowerShell, helping new learners with the basics and participating in the online community as often as I can.
 I am most active on Twitter [@thedavecarroll][MyTwitter], but you can also find me on [LinkedIn][MyLinkedIn], in the [PowerShell Forums][PowerShellForums], and (less occasionally now) in the [r/PowerShell subreddit][PowerShellReddit].
 
+Also, I have recently gotten into retrocomputing so you may see some content focused on that.
+The first computer I owned was a Commodore 64, but I would spend more time on my Apple //c that I received a couple years later.
+My first IBM compatible laptop had an impressive 640K RAM, which I configured part of as a RAM disk, and dual 1.44MB floppy drives.
+
 [MyTwitter]: https://twitter.com/thedavecarroll
 [MyLinkedIn]: https://www.linkedin.com/in/thedavecarroll/
 [PowerShellForums]: https://forums.powershell.org/
@@ -25,7 +26,7 @@ I am most active on Twitter [@thedavecarroll][MyTwitter], but you can also find 
 
 ### PowerShell and Technical Blog
 
-Since the middle of 2018, I have been [blogging][blog] about PowerShell and a smattering of articles for other info tech topics.
+Since the middle of 2018, I have been [blogging][blog] about PowerShell and a smattering of articles on other info tech and interesting topics.
 Here are the latest articles:
 
 <!-- <a href="https://bit.ly/thedavecarroll"><img src="https://raw.githubusercontent.com/thedavecarroll/thedavecarroll/main/images/powershell_anovelidea_org.png" width="400" alt="PowerShell: What A Novel Idea" /></a> -->
