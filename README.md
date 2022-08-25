@@ -1,14 +1,31 @@
 # Dave Carroll
 
-PowerShell developer with background in multiple scripting languages, identity management, and the Microsoft technology stack.
+The first computer I owned was a Commodore 64, but I would spend more time on my Apple //c that I received a couple years later.
+My first IBM compatible laptop had an impressive 640K RAM, which I configured part of as a RAM disk, and dual 1.44MB floppy drives.
 
-PowerShell to the people!
+I started my career over 28 years ago at a small Mom-and-Pop computer store building and repairing home computer systems and peripherals.
+Since then, I've worked in the public and private sectors with the majority of the time in higher education.
+Currently, I am a DevOps engineer for a finance company and use PowerShell and Python daily.
+
+I got into scripting early.
+First just DOS batch files, then VBScript.
+Around 2009, I learned my first bits of PowerShell converting my homegrown identity management system consisting of more than 10,000 lines of VBScript and interfacing with Active Directory, SunOne LDAP, Oracle DB, MySQL, and more.
+I enjoyed wowing coworkers (and myself) with the data I could collect and collate using just a few commands of PowerShell.
+It has allowed me to control the systems I manage and interface with various others.
+
+I attempt to promote and evangelize PowerShell, helping new learners with the basics and participating in the online community as often as I can.
+I am most active on Twitter [@thedavecarroll][MyTwitter], but you can also find me on [LinkedIn][MyLinkedIn], in the [PowerShell Forums][PowerShellForums], and (less occasionally now) in the [r/PowerShell subreddit][PowerShellReddit].
+
+[MyTwitter]: https://twitter.com/thedavecarroll
+[MyLinkedIn]: https://www.linkedin.com/in/thedavecarroll/
+[PowerShellForums]: https://forums.powershell.org/
+[PowerShellReddit]: https://www.reddit.com/r/PowerShell/
 
 ## My Contributions
 
-#### PowerShell and Technical Blog
+### PowerShell and Technical Blog
 
-I maintain a [blog][blog] on PowerShell with a smattering of articles for other info tech topics.
+Since the middle of 2018, I have been [blogging][blog] about PowerShell and a smattering of articles for other info tech topics.
 Here are the latest articles:
 
 <!-- <a href="https://bit.ly/thedavecarroll"><img src="https://raw.githubusercontent.com/thedavecarroll/thedavecarroll/main/images/powershell_anovelidea_org.png" width="400" alt="PowerShell: What A Novel Idea" /></a> -->
@@ -21,17 +38,17 @@ Here are the latest articles:
 - [A 2020 Year End Review and 2021 Directions](https://thedavecarroll.com/powershell/year-end-review-next-directions/)
 <!-- BLOG-POST-LIST:END -->
 
-#### PowerShell Modules
+### PowerShell Modules
 
 I wrote and maintain the following PowerShell modules:
 
-| Name            | Repo                                   | PowerShellGallery                  | Notes                                                                                                                                                                                                                    |
-| --------------- | -------------------------------------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| BluebirdPS      | [BluebirdPS][BluebirdPSRepo]           | ![PowerShell Gallery Version (including pre-releases)](https://img.shields.io/powershellgallery/v/bluebirdps?color=blue&include_prereleases&label=PowerShell%20Gallery&logo=PowerShell&style=for-the-badge)           | [Getting Started][BluebirdPSGettingStarted] [Documentation][BluebirdPSDocumentation] [Report a Bug][BluebirdPSBugReport]  [Submit Feature Request][BluebirdPSFeatureRequest]  [Ask a question][BluebirdPSOpenDiscussion] |
-| PoShEvents      | [PoShEvents][PoShEventsRepo]           | ![PowerShell Gallery Version (including pre-releases)](https://img.shields.io/powershellgallery/v/poshevents?color=blue&include_prereleases&label=PowerShell%20Gallery&logo=PowerShell&style=for-the-badge)           | PowerShell module to query Windows Event Logs and write events with structured EventData or UserData                                                                                                                     |
-| PoShGroupPolicy | [PoShGroupPolicy][PoShGroupPolicyRepo] | ![PowerShell Gallery Version (including pre-releases)](https://img.shields.io/powershellgallery/v/poshgrouppolicy?color=blue&include_prereleases&label=PowerShell%20Gallery&logo=PowerShell&style=for-the-badge)  | PowerShell module to assist with Group Policy                                                                                                                                                                                                     |
-| PoShDynDnsApi   | [PoShDynDnsApi][PoShDynDnsApiRepo]     | ![PowerShell Gallery Version (including pre-releases)](https://img.shields.io/powershellgallery/v/poshdyndnsapi?color=blue&include_prereleases&label=PowerShell%20Gallery&logo=PowerShell&style=for-the-badge)      | PowerShell module used to interact with Dyn Managed DNS REST API                                                                                                                                                                                            |
-| PSTemperature   | [PSTemperature][PSTemperatureRepo]     |                                    | Binary module written in C# with PowerShell 7 experimental feature. Converts temperature between Celsius, Fahrenheit, Kelvin, and Rankine.                                                                               |
+| Name            | Repo                                   | PowerShellGallery                                                                                                                                                                                                | Notes                                                                                                                                                                                                                    |
+|-----------------|----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| BluebirdPS | [BluebirdPS][BluebirdPSRepo] | ![PowerShell Gallery Version (including pre-releases)](https://img.shields.io/powershellgallery/v/bluebirdps?color=blue&include_prereleases&label=PowerShell%20Gallery&logo=PowerShell&style=for-the-badge) | [Getting Started][BluebirdPSGettingStarted] [Documentation][BluebirdPSDocumentation] [Report a Bug][BluebirdPSBugReport]  [Submit Feature Request][BluebirdPSFeatureRequest]  [Ask a question][BluebirdPSOpenDiscussion] |
+| PoShEvents | [PoShEvents][PoShEventsRepo] | ![PowerShell Gallery Version (including pre-releases)](https://img.shields.io/powershellgallery/v/poshevents?color=blue&include_prereleases&label=PowerShell%20Gallery&logo=PowerShell&style=for-the-badge) | PowerShell module to query Windows Event Logs and write events with structured EventData or UserData |
+| PoShGroupPolicy | [PoShGroupPolicy][PoShGroupPolicyRepo] | ![PowerShell Gallery Version (including pre-releases)](https://img.shields.io/powershellgallery/v/poshgrouppolicy?color=blue&include_prereleases&label=PowerShell%20Gallery&logo=PowerShell&style=for-the-badge) | PowerShell module to assist with Group Policy |
+| PoShDynDnsApi | [PoShDynDnsApi][PoShDynDnsApiRepo] | ![PowerShell Gallery Version (including pre-releases)](https://img.shields.io/powershellgallery/v/poshdyndnsapi?color=blue&include_prereleases&label=PowerShell%20Gallery&logo=PowerShell&style=for-the-badge) | PowerShell module used to interact with Dyn Managed DNS REST API |
+| PSTemperature | [PSTemperature][PSTemperatureRepo] | | Binary module written in C# with PowerShell 7 experimental feature. Converts temperature between Celsius, Fahrenheit, Kelvin, and Rankine.|
 
 [PoShEvents]: https://bit.ly/PoShEvents
 [PoShGroupPolicy]: https://bit.ly/PoShGroupPolicy
@@ -48,27 +65,27 @@ I wrote and maintain the following PowerShell modules:
 [BluebirdPSFeatureRequest]: https://bit.ly/BluebirdPSFeatureRequest
 [BluebirdPSOpenDiscussion]: https://bit.ly/BluebirdPSOpenDiscussion
 
-#### Iron Scripter Challenge Solutions
+### Iron Scripter Challenge Solutions
 
 I have participated in several [Iron Scripter][IronScripter] challenges since June 2019.
 My solutions can be found in [my IronScripterSolutions][MyIronScripterSolutionsRepo] repo.
 
-#### Contributing Author
+### Contributing Author
 
 * [PowerShell Conference Book Volume 2][psconfbook2]
 * [PowerShell Conference Book Volume 3][psconfbook3]
 * The [#PS7Now][ps7now] ebook which is comprised of the #PSBlogWeek articles for the GA release of PowerShell 7
 
-#### My Last Presentation
+### My Last Presentation
 
-|     Date | 12/1/2020                                                                                                                                                                                                                                                                                                                                                                                       |
-| -------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|    Event | Southern California PowerShell User Group - December Remote Meeting                                                                                                                                                                                                                                                                                                                             |
-|    Title | [BluebirdPS: A Twitter Automation Client for PowerShell 7][SoCalBluebirdPS]                                                                                                                                                                                                                                                                                                                     |
-| Abstract | In this discussion, we will take a look at BluebirdPS, a new PowerShell module for Twitter. We will examine some of the functions, including live tweeting, and then dive into use cases and an overview of the module design. If time permits, we will deep dive into the helper (private) functions that interact with the Twitter API directly and provide output including tailored errors. |
-|    Video | [Recording][SoCalBluebirdPSVideo]                                                                                                                                                                                                                                                                                                                                                               |
+| Date | 4/27/2021|
+|-:|:-|
+|Event | PowerShell + DevOps Global Summit 2021 |
+|Title | Creating BluebirdPS: A Twitter Automation Client for PowerShell 7 (Video On Demand)|
+|Abstract|In this talk, we will examine the process used in creating BluebirdPS, a PowerShell 7 module for the Twitter REST API. Topics will include learning the API, authentication, module structure, response and error handling, and customizing the output.|
+|Video|[Recording][Summit2021BluebirdPSVideo]|
 
-#### GitHub Info
+### GitHub Info
 
 [![thedavecarroll's Github Stats](https://github-readme-stats.vercel.app/api?username=thedavecarroll&show_icons=true&hide_border=true")](https://github.com/anuraghazra/github-readme-stats)
 
@@ -100,8 +117,7 @@ My solutions can be found in [my IronScripterSolutions][MyIronScripterSolutionsR
 
 [blog]: https://thedavecarroll.com
 
-[SoCalBluebirdPS]: 2020/SoCalPSUG-December/
-[SoCalBluebirdPSVideo]: https://bit.ly/2I4Va4L
+[Summit2021BluebirdPSVideo]: https://bit.ly/Summit2021BluebirdPS
 [IronScripter]: https://ironscripter.us/
 [MyIronScripterSolutionsRepo]: https://github.com/thedavecarroll/IronScripterSolutions
 [psconfbook1]: https://leanpub.com/powershell-conference-book
