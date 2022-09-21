@@ -1,8 +1,8 @@
 name: Recently Published Articles
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+    # Runs at 8am daily
+    - cron: '0 8 * * *'
   workflow_dispatch:
 
 jobs:
