@@ -2,7 +2,7 @@ name: Recently Published Articles
 on:
   schedule:
     # Runs at 8am daily
-    - cron: '0 2,4,6,8,10,12,14,16,18,20,22 * * *'
+    - cron: '0 0,2,4,6,8,10,12,14,16,18,20,22 * * *'
   workflow_dispatch:
 
 jobs:
@@ -18,7 +18,7 @@ jobs:
         with:
           token: ${{ github.token }}
           repository: ${{ github.repository }}
-          retain_days: 7
-          keep_minimum_runs: 10
+          retain_days: 0
+          keep_minimum_runs: 14
           delete_workflow_pattern: blog-post-workflow.yml
           delete_workflow_by_state_pattern: All
