@@ -1,4 +1,4 @@
-name: Recently Published Articles
+name: Add Recently Published Articles to Profile
 on:
   schedule:
     # Runs at 8am daily
