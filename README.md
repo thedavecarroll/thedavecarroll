@@ -37,11 +37,11 @@ Here are the latest articles:
 <!-- <a href="https://bit.ly/thedavecarroll"><img src="https://raw.githubusercontent.com/thedavecarroll/thedavecarroll/main/images/powershell_anovelidea_org.png" width="400" alt="PowerShell: What A Novel Idea" /></a> -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Where are the PowerShell People on Mastodon?](https://thedavecarroll.com/powershell/powershell-people-on-mastodon/)
 - [Refreshing the Blog](https://thedavecarroll.com/blog/refreshing-the-blog/)
 - [Questions from a PowerShell.org Forums User](https://thedavecarroll.com/powershell/questions-from-powershell-forums-user/)
 - [#PSFollowFriday Tweet with BluebirdPS](https://thedavecarroll.com/powershell/psfollowfriday-tweet-with-bluebirdps/)
 - [Creating a Class Definition from an Existing Object - Part 3](https://thedavecarroll.com/powershell/creating-class-definition-from-object-part-3/)
-- [Creating a Class Definition from an Existing Object - Part 2](https://thedavecarroll.com/powershell/creating-class-definition-from-object-part-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ### PowerShell Modules
