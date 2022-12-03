@@ -14,7 +14,7 @@ I attempt to promote and evangelize PowerShell, helping new learners with the ba
 I've recently joined the [Fediverse][Fediverse] and can be found on the [Mastodon][Mastodon] instance [@fosstodon.org/@thedavecarroll][FosstodonMe].
 You can also find me on [LinkedIn][MyLinkedIn], in the [PowerShell Forums][PowerShellForums], and (less occasionally now) in the [r/PowerShell subreddit][PowerShellReddit].
 
-I am most active on Twitter [@thedavecarroll][MyTwitter] these days.
+I am much less active on Twitter [@thedavecarroll][MyTwitter] these days.
 
 Also, I have recently gotten into retrocomputing so you may see some content focused on that.
 The first computer I owned was a Commodore 64, but I would spend more time on my Apple //c that I received a couple years later.
