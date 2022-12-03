@@ -11,9 +11,10 @@ I enjoyed wowing coworkers (and myself) with the data I could collect and collat
 It has allowed me to control the systems I manage and interface with various others.
 
 I attempt to promote and evangelize PowerShell, helping new learners with the basics and participating in the online community as often as I can.
-I am most active on Twitter [@thedavecarroll][MyTwitter], but you can also find me on [LinkedIn][MyLinkedIn], in the [PowerShell Forums][PowerShellForums], and (less occasionally now) in the [r/PowerShell subreddit][PowerShellReddit].
-
 I've recently joined the [Fediverse][Fediverse] and can be found on the [Mastodon][Mastodon] instance [@fosstodon.org/@thedavecarroll][FosstodonMe].
+You can also find me on [LinkedIn][MyLinkedIn], in the [PowerShell Forums][PowerShellForums], and (less occasionally now) in the [r/PowerShell subreddit][PowerShellReddit].
+
+I am most active on Twitter [@thedavecarroll][MyTwitter] these days.
 
 Also, I have recently gotten into retrocomputing so you may see some content focused on that.
 The first computer I owned was a Commodore 64, but I would spend more time on my Apple //c that I received a couple years later.
