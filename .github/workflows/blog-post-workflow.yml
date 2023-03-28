@@ -17,7 +17,7 @@ jobs:
         with:
           feed_list: "https://thedavecarroll.com/feed.xml"
       - name: Cleanup Workflow Runs
-        uses: Mattraks/delete-workflow-runs@v2
+        uses: Mattraks/delete-workflow-runs@v2.0.3
         with:
           token: ${{ github.token }}
           repository: ${{ github.repository }}
