@@ -1,6 +1,6 @@
 # Dave Carroll
 
-I started my career over 28 years ago at a small Mom-and-Pop computer store building and repairing home computer systems and peripherals.
+I started my career almost 30 years ago at a small Mom-and-Pop computer store building and repairing home computer systems and peripherals.
 Since then, I've worked in the public and private sectors with 17 years in higher education.
 Currently, I am a DevOps engineer for a finance company and use PowerShell and Python daily.
 
@@ -11,19 +11,16 @@ I enjoyed wowing coworkers (and myself) with the data I could collect and collat
 It has allowed me to control the systems I manage and interface with various others.
 
 I attempt to promote and evangelize PowerShell, helping new learners with the basics and participating in the online community as often as I can.
-I've recently joined the [Fediverse][Fediverse] and can be found on the [Mastodon][Mastodon] instance [@fosstodon.org/@thedavecarroll][FosstodonMe].
-You can also find me on [LinkedIn][MyLinkedIn], in the [PowerShell Forums][PowerShellForums], and (less occasionally now) in the [r/PowerShell subreddit][PowerShellReddit].
+The best places you can find me are on [LinkedIn][MyLinkedIn] and in the [PowerShell Forums][PowerShellForums].
 
-I am much less active on Twitter [@thedavecarroll][MyTwitter] these days.
+I am much less active on [Fediverse][Fediverse], but can be found on the [Mastodon][Mastodon] instance [@fosstodon.org/@thedavecarroll][FosstodonMe].
 
 Also, I have recently gotten into retrocomputing so you may see some content focused on that.
 The first computer I owned was a Commodore 64, but I would spend more time on my Apple //c that I received a couple years later.
 My first IBM compatible laptop had an impressive 640K RAM, which I configured part of as a RAM disk, and dual 1.44MB floppy drives.
 
-[MyTwitter]: https://twitter.com/thedavecarroll
 [MyLinkedIn]: https://www.linkedin.com/in/thedavecarroll/
 [PowerShellForums]: https://forums.powershell.org/
-[PowerShellReddit]: https://www.reddit.com/r/PowerShell/
 [Fediverse]: https://en.wikipedia.org/wiki/Fediverse
 [Mastodon]: https://joinmastodon.org/
 [FosstodonMe]: https://fosstodon.org/@thedavecarroll
@@ -51,10 +48,10 @@ I wrote and maintain the following PowerShell modules:
 
 | Name            | Repo                                   | PowerShellGallery                                                                                                                                                                                                | Notes                                                                                                                                                                                                                    |
 |-----------------|----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| BluebirdPS | [BluebirdPS][BluebirdPSRepo] | ![PowerShell Gallery Version (including pre-releases)](https://img.shields.io/powershellgallery/v/bluebirdps?color=blue&include_prereleases&label=PowerShell%20Gallery&logo=PowerShell&style=for-the-badge) | [Getting Started][BluebirdPSGettingStarted] [Documentation][BluebirdPSDocumentation] [Report a Bug][BluebirdPSBugReport]  [Submit Feature Request][BluebirdPSFeatureRequest]  [Ask a question][BluebirdPSOpenDiscussion] |
+| BluebirdPS | [BluebirdPS][BluebirdPSRepo] | ![PowerShell Gallery Version (including pre-releases)](https://img.shields.io/powershellgallery/v/bluebirdps?color=blue&include_prereleases&label=PowerShell%20Gallery&logo=PowerShell&style=for-the-badge) | [Getting Started][BluebirdPSGettingStarted] [Documentation][BluebirdPSDocumentation] |
 | PoShEvents | [PoShEvents][PoShEventsRepo] | ![PowerShell Gallery Version (including pre-releases)](https://img.shields.io/powershellgallery/v/poshevents?color=blue&include_prereleases&label=PowerShell%20Gallery&logo=PowerShell&style=for-the-badge) | PowerShell module to query Windows Event Logs and write events with structured EventData or UserData |
 | PoShGroupPolicy | [PoShGroupPolicy][PoShGroupPolicyRepo] | ![PowerShell Gallery Version (including pre-releases)](https://img.shields.io/powershellgallery/v/poshgrouppolicy?color=blue&include_prereleases&label=PowerShell%20Gallery&logo=PowerShell&style=for-the-badge) | PowerShell module to assist with Group Policy |
-| PoShDynDnsApi | [PoShDynDnsApi][PoShDynDnsApiRepo] | ![PowerShell Gallery Version (including pre-releases)](https://img.shields.io/powershellgallery/v/poshdyndnsapi?color=blue&include_prereleases&label=PowerShell%20Gallery&logo=PowerShell&style=for-the-badge) | PowerShell module used to interact with Dyn Managed DNS REST API |
+| PoShDynDnsApi | [PoShDynDnsApi][PoShDynDnsApiRepo] | | PowerShell module used to interact with Dyn Managed DNS REST API |
 | PSTemperature | [PSTemperature][PSTemperatureRepo] | | Binary module written in C# with PowerShell 7 experimental feature. Converts temperature between Celsius, Fahrenheit, Kelvin, and Rankine.|
 
 [PoShEvents]: https://bit.ly/PoShEvents
@@ -68,9 +65,6 @@ I wrote and maintain the following PowerShell modules:
 [BluebirdPS]: https://bit.ly/BluebirdPS
 [BluebirdPSGettingStarted]: https://bit.ly/BluebirdPSPrerequisites
 [BluebirdPSDocumentation]: https://bit.ly/BluebirdPSDocs
-[BluebirdPSBugReport]: https://bit.ly/BluebirdPSBugReport
-[BluebirdPSFeatureRequest]: https://bit.ly/BluebirdPSFeatureRequest
-[BluebirdPSOpenDiscussion]: https://bit.ly/BluebirdPSOpenDiscussion
 
 ### Iron Scripter Challenge Solutions
 
