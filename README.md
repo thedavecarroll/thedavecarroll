@@ -48,7 +48,7 @@ I wrote and maintain the following PowerShell modules:
 
 | Name            | Repo                                   | PowerShellGallery                                                                                                                                                                                                | Notes                                                                                                                                                                                                                    |
 |-----------------|----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| BluebirdPS | [BluebirdPS][BluebirdPSRepo] | ![PowerShell Gallery Version (including pre-releases)](https://img.shields.io/powershellgallery/v/bluebirdps?color=blue&include_prereleases&label=PowerShell%20Gallery&logo=PowerShell&style=for-the-badge) | [Getting Started][BluebirdPSGettingStarted] [Documentation][BluebirdPSDocumentation] |
+| BluebirdPS | [BluebirdPS][BluebirdPSRepo] | ![PowerShell Gallery Version (including pre-releases)](https://img.shields.io/powershellgallery/v/bluebirdps?color=blue&include_prereleases&label=PowerShell%20Gallery&logo=PowerShell&style=for-the-badge) | [Getting Started][BluebirdPSGettingStarted] [Documentation][BluebirdPSDocumentation] - NO LONGER SUPPORTED |
 | PoShEvents | [PoShEvents][PoShEventsRepo] | ![PowerShell Gallery Version (including pre-releases)](https://img.shields.io/powershellgallery/v/poshevents?color=blue&include_prereleases&label=PowerShell%20Gallery&logo=PowerShell&style=for-the-badge) | PowerShell module to query Windows Event Logs and write events with structured EventData or UserData |
 | PoShGroupPolicy | [PoShGroupPolicy][PoShGroupPolicyRepo] | ![PowerShell Gallery Version (including pre-releases)](https://img.shields.io/powershellgallery/v/poshgrouppolicy?color=blue&include_prereleases&label=PowerShell%20Gallery&logo=PowerShell&style=for-the-badge) | PowerShell module to assist with Group Policy |
 | PoShDynDnsApi | [PoShDynDnsApi][PoShDynDnsApiRepo] | | PowerShell module used to interact with Dyn Managed DNS REST API |
@@ -126,4 +126,4 @@ My solutions can be found in [my IronScripterSolutions][MyIronScripterSolutionsR
 [psconfbook3]: https://leanpub.com/psconfbook3
 [ps7now]: https://leanpub.com/ps7now/
 [devopsorg]: https://devopscollective.org/
-[onrampscholarship]: https://events.devopscollective.org/OnRamp/Scholarship/
+[onrampscholarship]: https://www.powershellsummit.org/onramp/
