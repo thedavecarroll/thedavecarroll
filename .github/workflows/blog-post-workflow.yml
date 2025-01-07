@@ -1,8 +1,8 @@
 name: Add Recently Published Articles to Profile
 on:
-  schedule:
+  # schedule:
     # Run at 8am daily
-    - cron: '0 8 * * *'
+   # - cron: '0 8 * * *'
   workflow_dispatch:
 
 jobs:
@@ -11,13 +11,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - name: Get Site Posts and Update README
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://thedavecarroll.com/feed.xml"
       - name: Cleanup Workflow Runs
-        uses: Mattraks/delete-workflow-runs@v2.0.3
+        uses: Mattraks/delete-workflow-runs@v2.0.6
         with:
           token: ${{ github.token }}
           repository: ${{ github.repository }}
